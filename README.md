@@ -1,4 +1,4 @@
-### Hi, I'm [Iqbal!](https://b4lee.github.io) 👋
+### Hi, I'm [Iqbal!](https://b4le.site) 👋
 
 A passionate self-taught Front-end Developer from Indonesia.
 People usually call me Bale, I've been working on Front-end stuff for almost 2 years as a hobby.
