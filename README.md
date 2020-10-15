@@ -1,6 +1,6 @@
 ### Hi, I'm [Iqbal!](https://b4le.site) 👋
 
-self-taught Web Developer from Indonesia. People usually call me Bale, Interested in Front-end for almost 2 years as a hobby.
+self-taught Web Developer from Indonesia. Specialize in Front-end for almost 2 years as a hobby.
 <br>
 While I don't have that much professional experience, I'm eager to learn new things!
 <!--
