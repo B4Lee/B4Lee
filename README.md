@@ -1,4 +1,4 @@
-### Hello!👋 I'm [Iqbal Anggoro](https://b4le.site) 😃
+### Hello!👋
 <br />
 <!-- <p align="left">
 <a href="https://www.linkedin.com/in/iqbal-anggoro/">
@@ -9,13 +9,12 @@
 <img src="https://img.shields.io/badge/-YouTube-%23FF0000" alt="YouTube" /></a> 
 </p> -->
 
+* 😄 I'm Iqbal Anggoro from Indonesia 🇮🇩
 * 👨‍💻 Self-taught Web Developer specializing in Front-end Development.
 * 💻 Currently working on Projects [AIR IT Service](https://github.com/airitservice) & [Baja Softworks](https://github.com/Baja-Softworks/)
 * 🎮 Loves playing [Dota 2](https://steamcommunity.com/id/iqbalryo/) and [osu!](https://osu.ppy.sh/users/10186841)
 * 📫 reach me via 
-   - [Email](mailto:iqbalanggoro48@gmail.com)
-   - [Discord](https://discord.gg/zYQrgVpgyE) (**B4Le#8057**)
-* 😄 Nice to meet you!
+   - [Email](mailto:iqbalanggoro48@gmail.com) // [Discord](https://discord.gg/8CMC6NQCP4) (**B4Le#8057**)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B4Lee&hide=html&layout=compact&langs_count=6&theme=dracula) -->
 
 <!--
